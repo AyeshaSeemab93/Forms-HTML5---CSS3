@@ -44,12 +44,6 @@ Welcome to the Forms repository, where various forms have been created using HTM
 3. **View Deployed Forms:**
    - Experience the forms live on GitHub Pages by visiting [Forms - HTML5 & CSS3](https://ayeshaseemab93.github.io/Forms-HTML5-CSS3/).
 
-## Contributing
 
-If you have suggestions, improvements, or would like to contribute, feel free to submit pull requests or open issues. Your contributions are valuable and appreciated.
-
-## License
-
-These forms are licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code.
 
 Thank you for exploring these HTML5 and CSS3 forms! Happy form building!
